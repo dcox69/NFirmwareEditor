@@ -1,0 +1,17 @@
+<Patch Definition="RX23 4.13" Name="1W Step" Version="1.0" Author="dcox69">
+  <Description>Set increment and decrement of power value to 1.0</Description>
+  <Data>
+000041A8: 17 - 00
+000041A9: D3 - BF
+000042BC: 30 - 00
+000042BD: D3 - BF
+000043D2: 20 - 00
+000043D3: D3 - BF
+000044E2: 25 - 00
+000044E3: D3 - BF
+000045B0: 14 - 00
+000045B1: D3 - BF
+0000470C: 16 - 00
+0000470D: D3 - BF
+</Data>
+</Patch>
